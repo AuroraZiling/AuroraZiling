@@ -6,7 +6,9 @@
 
 
 [![](https://img.shields.io/badge/OS-Windows-33aadd?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/)
-[![](https://img.shields.io/badge/-CSharp-007396?style=flat-square&logo=csharp&logoColor=ffffff)](https://reactjs.org/)
+[![](https://img.shields.io/badge/CSharp-007396?style=flat-square&logoColor=ffffff)]()
+[![](https://img.shields.io/badge/Python-007396?style=flat-square&logoColor=ffffff)]()
+[![](https://img.shields.io/badge/CPP-007396?style=flat-square&logoColor=ffffff)]()
 
 <!--
 **AuroraZiling/AuroraZiling** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
