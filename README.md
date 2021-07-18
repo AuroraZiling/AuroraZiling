@@ -18,9 +18,24 @@
 
 ### Technologies 🔧
 
-[OS-Windows](https://img.shields.io/badge/OS-Windows-blue&logo=windows)
+#### OS
+![OS-Windows](https://img.shields.io/badge/OS-Windows-blue?logo=windows)
+![OS-Linux](https://img.shields.io/badge/OS-Raspbian-blue?logo=raspbian)
 
-![info](https://github-readme-stats.vercel.app/api?username=AuroraZiling&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
+#### Editor
+![Editor-VisualStudio](https://img.shields.io/badge/Editor-VisualStudio-blue?logo=visual-studio)
+![Editor-PyCharm](https://img.shields.io/badge/Editor-PyCharm-blue?logo=pycharm)
+
+#### Language
+![Language-Python](https://img.shields.io/badge/Language-Python-blue?logo=python)
+![Language-CSharp](https://img.shields.io/badge/Language-CSharp-blue?logo=csharp)
+
+### My Github Status
+
+[![Aurora's GitHub Status](https://github-readme-stats.vercel.app/api?username=auroraziling)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Aurora's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=auroraziling)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 [![](https://img.shields.io/badge/OS-Windows-33aadd?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/)
