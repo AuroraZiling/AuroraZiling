@@ -32,7 +32,7 @@
 ![Language-CSharp](https://img.shields.io/badge/Language-CSharp-blue?logo=csharp)
 
 ### Doing
-- [x] *0x00* learning Go language
+- [x] *0x00* learning Python language
 - [ ] *0x01* to learn web-design technology
 - [ ] *0x02* to build account system for studio and *secret organization*
 
