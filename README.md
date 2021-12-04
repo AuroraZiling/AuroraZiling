@@ -32,9 +32,9 @@
 ![Language-CSharp](https://img.shields.io/badge/Language-CSharp-blue?logo=csharp)
 
 ### Doing
-- [x] *0x00* learning Rust, Python, C++, C#
+- [x] *0x00* learning Go language
 - [ ] *0x01* to learn web-design technology
-- [ ] *0x02* to build account system for studio
+- [ ] *0x02* to build account system for studio and *secret organization*
 
 ### My Github Status
 
