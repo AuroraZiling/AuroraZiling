@@ -33,7 +33,7 @@
 
 ### Doing
 - [x] *0x00* learning Python language
-- [ ] *0x01* to learn web-design technology
+- [ ] *0x01* to build *online judge*
 - [ ] *0x02* to build account system for studio and *secret organization*
 
 ### My Github Status
