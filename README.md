@@ -32,9 +32,8 @@
 ![Language-CSharp](https://img.shields.io/badge/Language-CSharp-blue?logo=csharp)
 
 ### Doing
-- [x] *0x00* learning Python language
-- [ ] *0x01* to build *online judge*
-- [ ] *0x02* to build account system for studio and *secret organization*
+- [x] *0x00* to build both AMS and AML programs
+- [x] *0x01* to maintain Lair Server Documentation
 
 ### My Github Status
 
