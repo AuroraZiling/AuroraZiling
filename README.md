@@ -9,13 +9,12 @@
 - QQ: 2935876049
 - Mail(Personal): 2935876049@qq.com
 - Mail(Organization): aurora@asu.world
-- MinecraftID: Ziling_uwu
+- Minecraft ID: Ziling_uwu
 
 ### Technologies 🔧
 
 #### OS
 ![OS-Windows](https://img.shields.io/badge/OS-Windows-blue?logo=windows)
-![OS-Linux](https://img.shields.io/badge/OS-Raspbian-blue?logo=raspbian)
 
 #### Editor
 ![Editor-VisualStudio](https://img.shields.io/badge/Editor-VisualStudio-blue?logo=visual-studio)
