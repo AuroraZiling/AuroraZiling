@@ -27,6 +27,7 @@
 ### Doing
 - [x] *0x00* to build both AMS and AML programs
 - [x] *0x01* to maintain Lair Server Documentation
+- [x] *0x02* learning Java *for Minecraft server plugins*, C# *for Minecraft client*, Python *for Minecraft server*
 
 ### My Github Status
 
