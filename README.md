@@ -24,11 +24,6 @@
 ![Language-Python](https://img.shields.io/badge/Language-Python-blue?logo=python)
 ![Language-CSharp](https://img.shields.io/badge/Language-CSharp-blue?logo=csharp)
 
-### Doing
-- [x] *0x00* to build both AMS and AML programs
-- [x] *0x01* to maintain Lair Server Documentation
-- [x] *0x02* learning Java *for Minecraft server plugins*, C# *for Minecraft client*, Python *for Minecraft server*
-
 ### My Github Status
 
 [![Aurora's GitHub Status](https://github-readme-stats.vercel.app/api?username=auroraziling)](https://github.com/anuraghazra/github-readme-stats)
