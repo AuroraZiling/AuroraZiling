@@ -20,8 +20,4 @@
 ![Language-Python](https://img.shields.io/badge/Language-Python-blue?logo=python)
 ![Language-CSharp](https://img.shields.io/badge/Language-CSharp-blue?logo=csharp)
 
-### My Github Status
-
 [![Aurora's GitHub Status](https://github-readme-stats.vercel.app/api?username=auroraziling)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Aurora's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=auroraziling)](https://github.com/anuraghazra/github-readme-stats)
