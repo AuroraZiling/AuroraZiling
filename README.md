@@ -11,16 +11,12 @@
 - Mail(Organization): aurora@asu.world
 - Minecraft ID: Ziling_uwu
 
-### Technologies 🔧
+### Goals
 
-#### OS
-![OS-Windows](https://img.shields.io/badge/OS-Windows-blue?logo=windows)
+1. Learn Java
+2. Learn Algorithm by Python
 
-#### Editor
-![Editor-VisualStudio](https://img.shields.io/badge/Editor-VisualStudio-blue?logo=visual-studio)
-![Editor-PyCharm](https://img.shields.io/badge/Editor-PyCharm-blue?logo=pycharm)
-
-#### Language
+### Language
 ![Language-Python](https://img.shields.io/badge/Language-Python-blue?logo=python)
 ![Language-CSharp](https://img.shields.io/badge/Language-CSharp-blue?logo=csharp)
 
