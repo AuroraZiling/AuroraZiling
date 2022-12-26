@@ -1,25 +1,31 @@
-![cover.png](https://i.loli.net/2021/07/19/ykTQGhxfYZOve1X.png)
+# Hi 👋
+I'm a high school student who loves computers and philosophy.
 
-### Hi there 👋
-![](https://visitor-badge.glitch.me/badge?page_id=AuroraZiling.readme)
+[![Aurora's GitHub Status](https://github-readme-stats.vercel.app/api?username=auroraziling&theme=tokyonight)](https://github.com/auroraziling)
 
-![](https://www.codewars.com/users/Mr_ziling/badges/large)
----
-- Name: Mccree Lee
-- Hobby: development of software
-- Country: China
+My *Codewars*:
+![My Codewars](https://www.codewars.com/users/Mr_ziling/badges/micro)
+
+## In progress
+
+1. Learn [Java](https://www.java.com/)
+2. Learn [Python](https://www.python.org/)
+3. Learn [C#](https://learn.microsoft.com/zh-cn/dotnet/csharp/)
+4. Learn [SolidJS](https://www.solidjs.com/)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=auroraziling&layout=compact&hide=HTML,css&theme=tokyonight)](https://github.com/auroraziling)
+
+## Planning
+
+1. Learn **Basic Algorithm** and **something related to Minecraft** *through Java*
+2. Learn **Web crawler** and **Data Science** *through Python*
+3. Learn **WPF(.Net Core)** *through C#*
+
+## Blog
+
+- [My Blog](https://ziling.space) *Work In Progress*
+
+## Contact
 - QQ: 2935876049
 - Mail(Personal): 2935876049@qq.com
-- Mail(Organization): aurora@asu.world
 - Minecraft ID: Ziling_uwu
-
-### Goals
-
-1. Learn Java
-2. Learn Algorithm by Python
-
-### Language
-![Language-Python](https://img.shields.io/badge/Language-Python-blue?logo=python)
-![Language-CSharp](https://img.shields.io/badge/Language-CSharp-blue?logo=csharp)
-
-[![Aurora's GitHub Status](https://github-readme-stats.vercel.app/api?username=auroraziling)](https://github.com/anuraghazra/github-readme-stats)
