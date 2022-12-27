@@ -11,7 +11,6 @@ My *Codewars*:
 1. Learn [Java](https://www.java.com/)
 2. Learn [Python](https://www.python.org/)
 3. Learn [C#](https://learn.microsoft.com/zh-cn/dotnet/csharp/)
-4. Learn [SolidJS](https://www.solidjs.com/)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=auroraziling&layout=compact&hide=HTML,css&theme=tokyonight)](https://github.com/auroraziling)
 
