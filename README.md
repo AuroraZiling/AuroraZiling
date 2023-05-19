@@ -1,18 +1,28 @@
 # Hi 👋
-I'm a high school student who loves computers and philosophy.
+I'm a high school student in Chongqing, China, who loves programming and philosophy.
 
 [![Aurora's GitHub Status](https://github-readme-stats.vercel.app/api?username=auroraziling&theme=tokyonight)](https://github.com/auroraziling)
 
-## In progress
+## Technologies
 
-Learn `Python` -> `PyQt6`
+- Python:
+  - [PySide6](https://pypi.org/project/PySide6/)
 
-## Planning
+- C-Sharp:
+  - WPF
 
-1. Learn **Basic Algorithm** *through Java*
-2. Learn **Web crawler** and **PyQt6/PySide6** *through Python*
+## Learning
+
+- Python:
+  - [FastAPI](https://fastapi.tiangolo.com/)
+  - [scikit-learn](https://scikit-learn.org/stable/index.html)
+  - [mitmproxy](https://mitmproxy.org/)
+
+- Java:
+  - AP Computer Science A
+  - Algorithm
 
 ## Contact
 - QQ: 2935876049
-- Mail(Personal): 2935876049@qq.com
+- Mail(Personal): auroraziling@foxmail.com
 - Minecraft ID: Ziling_uwu
