@@ -28,6 +28,8 @@ I'm a high school student in Chongqing, China.
 - .NET Core:
   - Console Applications *plugins for my projects*
 
+- [Sqlite](https://www.sqlite.org/) *with Python & JS*
+
 ## Contact
 - QQ: 2935876049
 - Mail(Personal): auroraziling@foxmail.com
