@@ -1,15 +1,14 @@
 # Hi 👋
-I'm a high school student in Chongqing, China, who loves programming and philosophy.
+<a href="#"><img align="right" src="https://github-readme-stats.vercel.app/api?username=auroraziling&theme=tokyonight"></img></a>
 
-[![Aurora's GitHub Status](https://github-readme-stats.vercel.app/api?username=auroraziling&theme=tokyonight)](https://github.com/auroraziling)
+I'm a high school student in Chongqing, China.
 
 ## Technologies
 
 - Python:
   - [PySide6](https://pypi.org/project/PySide6/)
 
-- C-Sharp:
-  - WPF
+- CSharp WPF
 
 ## Learning
 
@@ -18,9 +17,16 @@ I'm a high school student in Chongqing, China, who loves programming and philoso
   - [scikit-learn](https://scikit-learn.org/stable/index.html)
   - [mitmproxy](https://mitmproxy.org/)
 
+- Web:
+  - [SolidJS](https://www.solidjs.com/)
+  - Javascript
+
 - Java:
   - AP Computer Science A
   - Algorithm
+
+- .NET Core:
+  - Console Applications *plugins for my projects*
 
 ## Contact
 - QQ: 2935876049
