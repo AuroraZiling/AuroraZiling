@@ -15,7 +15,6 @@ I'm a high school student in Chongqing, China.
 - Python:
   - [FastAPI](https://fastapi.tiangolo.com/)
   - [scikit-learn](https://scikit-learn.org/stable/index.html)
-  - [mitmproxy](https://mitmproxy.org/)
 
 - Web:
   - [SolidJS](https://www.solidjs.com/)
@@ -25,8 +24,8 @@ I'm a high school student in Chongqing, China.
   - AP Computer Science A
   - Algorithm
 
-- .NET Core:
-  - Console Applications *plugins for my projects*
+- .NET:
+  - [Avalonia UI](https://www.avaloniaui.net/)
 
 - [Sqlite](https://www.sqlite.org/) *with Python & JS*
 
