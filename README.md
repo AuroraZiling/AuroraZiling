@@ -17,17 +17,15 @@ I'm a high school student in Chongqing, China.
   - [scikit-learn](https://scikit-learn.org/stable/index.html)
 
 - Web:
-  - [SolidJS](https://www.solidjs.com/)
+  - [Vue.js](https://vuejs.org/)
   - Javascript
 
-- Java:
-  - AP Computer Science A
-  - Algorithm
+- Java: Algorithm *including AP Computer Science A*
 
 - .NET:
-  - [Avalonia UI](https://www.avaloniaui.net/)
+  - [WinUI3](https://microsoft.github.io/microsoft-ui-xaml/)
 
-- [Sqlite](https://www.sqlite.org/) *with Python & JS*
+- [Sqlite](https://www.sqlite.org/) *with Python & .Net*
 
 ## Contact
 - QQ: 2935876049
