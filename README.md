@@ -5,26 +5,15 @@ I'm a high school student in Chongqing, China.
 
 ## Technologies
 
-- Python:
-  - [PySide6](https://pypi.org/project/PySide6/)
-
-- CSharp WPF
+- Python: [PySide6](https://pypi.org/project/PySide6/)
+- .Net: WPF
 
 ## Learning
 
-- Python:
-  - [FastAPI](https://fastapi.tiangolo.com/)
-  - [scikit-learn](https://scikit-learn.org/stable/index.html)
-
-- Web:
-  - [Vue.js](https://vuejs.org/)
-  - Javascript
-
+- Python: [FastAPI](https://fastapi.tiangolo.com/)
+- Web: [Vue.js](https://vuejs.org/)
 - Java: Algorithm *including AP Computer Science A*
-
-- .NET:
-  - [WinUI3](https://microsoft.github.io/microsoft-ui-xaml/)
-
+- .Net: [WinUI3](https://microsoft.github.io/microsoft-ui-xaml/)
 - [Sqlite](https://www.sqlite.org/) *with Python & .Net*
 
 ## Contact
