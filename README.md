@@ -10,10 +10,8 @@ I'm a high school student in Chongqing, China.
 
 ## Learning
 
-- Python: [FastAPI](https://fastapi.tiangolo.com/)
-- Web: [Vue.js](https://vuejs.org/)
 - Java: Algorithm *including AP Computer Science A*
-- .Net: [WinUI3](https://microsoft.github.io/microsoft-ui-xaml/)
+- .Net: WPF with MVVM
 - [Sqlite](https://www.sqlite.org/) *with Python & .Net*
 
 ## Contact
