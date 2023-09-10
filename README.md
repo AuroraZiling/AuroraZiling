@@ -10,6 +10,7 @@ I'm a high school student in Chongqing, China.
 
 ## Learning
 
+- Web Development: HTML, CSS, JS, Vue.js
 - Java: Algorithm *including AP Computer Science A*
 - .Net: WPF with MVVM
 - [Sqlite](https://www.sqlite.org/) *with Python & .Net*
