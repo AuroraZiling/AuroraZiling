@@ -13,7 +13,7 @@ I'm a high school student in Chongqing, China.
 
 ## Learning
 
-<a href="#"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=auroraziling&hide=javascript,html,css&layout=compact&theme=dark"></img></a>
+<a href="#"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=auroraziling&hide=javascript,typescript,html,css,scss&layout=compact&theme=dark"></img></a>
 
 - Web Development: HTML, CSS, JS, Vue.js
 - Java: Algorithm *including AP Computer Science A*
