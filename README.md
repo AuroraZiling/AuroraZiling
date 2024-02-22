@@ -15,9 +15,9 @@ I'm a high school student in Chongqing, China.
 
 <a href="#"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=auroraziling&hide=javascript,typescript,html,css,scss&layout=compact&theme=dark"></img></a>
 
-- Web Development: HTML, CSS, JS, Vue.js
-- Java: Algorithm *including AP Computer Science A*
-- .Net: WPF with MVVM
+- Software: .NET WPF, Avalonia
+- Backend: ASP.NET Core MVC, Controller-based API
+- Frontend: HTML, CSS, TypeScript, Vue.js
 
 ## Contact
 - QQ: 2935876049
