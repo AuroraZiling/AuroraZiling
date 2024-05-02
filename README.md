@@ -13,7 +13,7 @@ Some familiar tech stacks:
 
 ## Learning
 
-<a href="#"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=auroraziling&hide=javascript,typescript,html,css,scss&layout=compact&theme=dark"></img></a>
+<a href="#"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=auroraziling&hide=javascript,typescript,html,css,scss,powershell,batchfile&layout=compact&theme=dark"></img></a>
 
 - Software: .NET WPF, Avalonia
 - Backend: ASP.NET Core MVC, Controller-based API
