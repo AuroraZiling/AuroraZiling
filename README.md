@@ -16,6 +16,7 @@ Some favorite tech stacks:
 <a href="#"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=auroraziling&hide=javascript,typescript,html,css,scss,powershell,batchfile&layout=compact&theme=dark"></img></a>
 
 - Software: Avalonia
+- Language: Rust
 - Backend: ASP.NET Core MVC, Controller-based API
 - Frontend: HTML, CSS, TypeScript, Vue.js
 
