@@ -11,16 +11,14 @@ Some favorite tech stacks:
 
 [![Python][Python]][Python-url][![PySide6][PySide6]][PySide6-url]
 
-## Learning
+### Learning
 
-<a href="#"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=auroraziling&hide=javascript,typescript,html,css,scss,powershell,batchfile&layout=compact&theme=dark"></img></a>
+<a href="#"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=auroraziling&hide=javascript,typescript,html,css,scss,powershell,batchfile,lua&layout=compact&theme=dark"></img></a>
 
 - Software: Avalonia
-- Language: Rust
-- Backend: ASP.NET Core MVC, Controller-based API
-- Frontend: HTML, CSS, TypeScript, Vue.js
+- Language: C# *dive deeper...*
 
-## Contact
+### Contact
 - QQ: 2935876049
 - Email: auroraziling@gmail.com
 - Minecraft ID: Ziling_uwu
