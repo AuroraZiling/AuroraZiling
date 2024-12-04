@@ -1,5 +1,5 @@
 # Hi 👋
-<a href="#"><img align="right" src="https://github-readme-stats.vercel.app/api?username=auroraziling&theme=dark&show_icons=true"></img></a>
+<a href="#"><img align="right" src="https://github-readme-stats.vercel.app/api?username=auroraziling&theme=radical&show_icons=true"></img></a>
 
 I'm a high school student in Chongqing, China.
 
@@ -13,10 +13,13 @@ Some favorite tech stacks:
 
 ### Learning
 
-<a href="#"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=auroraziling&hide=javascript,typescript,html,css,scss,powershell,batchfile,lua&layout=compact&theme=dark"></img></a>
+<a href="#"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=auroraziling&hide=javascript,typescript,html,css,scss,powershell,batchfile,lua&layout=compact&theme=radical"></img></a>
 
 - Software: Avalonia
-- Language: C# *dive deeper...*
+- Language:
+  - C# *dive deeper...*
+  - C++
+  - Python
 
 ### Contact
 - QQ: 2935876049
