@@ -1,15 +1,11 @@
 # Hi 👋
 <a href="#"><img align="right" src="https://github-readme-stats.vercel.app/api?username=auroraziling&theme=radical&show_icons=true"></img></a>
 
-I'm a high school student in Chongqing, China.
+I'm an undergrad student at [UBC](https://www.ubc.ca/), currently living in Chongqing, China.
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=AuroraZiling.AuroraZiling)
 
-Some favorite tech stacks:
-
-[![.NET Core][.NET Core]][.NET-url][![Avalonia][Avalonia]][Avalonia-url]
-
-[![Python][Python]][Python-url][![PySide6][PySide6]][PySide6-url]
+Some favorite fields: Software Engineering, UI Design
 
 ### Learning
 
@@ -18,8 +14,8 @@ Some favorite tech stacks:
 - Software: Avalonia
 - Language:
   - C# *dive deeper...*
-  - C++
   - Python
+  - RacketLang
 
 ### Contact
 - QQ: 2935876049
