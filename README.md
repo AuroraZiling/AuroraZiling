@@ -9,13 +9,13 @@ Some favorite fields: Software Engineering, UI Design
 
 ### Learning
 
-<a href="#"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=auroraziling&hide=javascript,typescript,html,css,scss,powershell,batchfile,lua&layout=compact&theme=radical"></img></a>
-
 - Software: Avalonia
 - Language:
   - C# *dive deeper...*
   - Python
   - RacketLang
+
+<a href="#"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=auroraziling&hide=javascript,typescript,html,css,scss,powershell,batchfile,lua&layout=compact&theme=radical"></img></a>
 
 ### Contact
 - QQ: 2935876049
