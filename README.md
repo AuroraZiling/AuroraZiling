@@ -1,5 +1,5 @@
 # Hi 👋
-<a href="#"><img align="right" src="https://github-readme-stats.vercel.app/api?username=auroraziling&theme=radical&show_icons=true"></img></a>
+<a href="#"><img align="right" src="https://github-readme-stats.vercel.app/api?username=auroraziling&theme=radical&show_icons=true&hide_title=true"></img></a>
 
 I'm an undergrad student at [UBC](https://www.ubc.ca/), currently living in Chongqing, China.
 
@@ -22,6 +22,9 @@ Some favorite fields: Software Engineering, UI Design
 - Email: auroraziling@gmail.com
 - Minecraft ID: Ziling_uwu
 
+### Skills
+
+[![My Skills](https://skillicons.dev/icons?i=cs,docker,git,discord,nginx,ps,powershell,py,raspberrypi,windows,cloudflare,stackoverflow,visualstudio,vscode,netlify,notion,md,npm,pnpm,obsidian,github,idea,pycharm,rider)](https://skillicons.dev)
 
 [.NET Core]: https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white
 [.NET-url]: https://dotnet.microsoft.com/
