@@ -1,19 +1,15 @@
 # Hi 👋
 <a href="#"><img align="right" src="https://github-readme-stats.vercel.app/api?username=auroraziling&theme=radical&show_icons=true&hide_title=true"></img></a>
 
-I'm a drop-out undergrad student from [UBC](https://www.ubc.ca/), currently living in Chongqing, China.
+I'm a drop-out undergrad student from [UBC](https://www.ubc.ca/), currently living in Shanghai, China.
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=AuroraZiling.AuroraZiling)
 
-Some favorite fields: Software Engineering, UI Design
+Some favorite fields: Full-Stack, Software Engineering, UI Design
 
 ### Learning
 
-- Desktop: Avalonia
-- Language:
-  - C# *dive deeper...*
-  - Python
-  - RacketLang
+Planning. I want to learn in Coursera.
 
 <a href="#"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=auroraziling&hide=javascript,typescript,html,css,scss,powershell,batchfile,lua&layout=compact&theme=radical"></img></a>
 
