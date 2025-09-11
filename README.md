@@ -7,9 +7,13 @@ I'm a drop-out undergrad student from [UBC](https://www.ubc.ca/), currently livi
 
 Some favorite fields: Full-Stack, Software Engineering, UI Design
 
+Currently working on [Everywhere](https://github.com/DearVa/Everywhere)
+
 ### Learning
 
-Planning. I want to learn in Coursera.
+- Full-Stack
+- AI / ML
+- Business & Marketing
 
 <a href="#"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=auroraziling&hide=javascript,typescript,html,css,scss,powershell,batchfile,lua&layout=compact&theme=radical"></img></a>
 
