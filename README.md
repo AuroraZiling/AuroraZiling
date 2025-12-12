@@ -4,7 +4,7 @@
 - 🔭 I’m **Artemis Li**, a drop-out undergrad from [UBC](https://www.ubc.ca/)
 - 🌱 Living in Shanghai, China
 - 💬 Favorites: Software Engineering, UI Design
-- ✍🏼 Learning Business & Marketing / AI-related / Full Stack
+- ✍🏼 Learning Business / AI-related / Full Stack
 - ⚡ Working on [Everywhere](https://github.com/DearVa/Everywhere)
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=AuroraZiling.AuroraZiling)
