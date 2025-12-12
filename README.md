@@ -1,21 +1,15 @@
-# Hi 👋
-<a href="#"><img align="right" src="https://github-readme-stats.vercel.app/api?username=auroraziling&theme=radical&show_icons=true&hide_title=true"></img></a>
+# Greetings 👋
+<a href="#"><img align="right" src="https://github-readme-stats.vercel.app/api?username=auroraziling&theme=dracula&show_icons=true&hide_title=true&show=reviews,prs_merged&hide=contribs&rank_icon=percentile"></img></a>
 
-I'm a drop-out undergrad student from [UBC](https://www.ubc.ca/), currently living in Shanghai, China.
+  - 🔭 I’m **Artemis Li**, a drop-out undergrad student from [UBC](https://www.ubc.ca/)
+  - 🌱 Currently currently living in Shanghai, China
+  - 💬 Favorite fields: Software Engineering, UI Design
+  - ✍🏼 Learning Business & Marketing / AI-related / Full Stack
+  - ⚡ Currently working on [Everywhere](https://github.com/DearVa/Everywhere)
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=AuroraZiling.AuroraZiling)
 
-Some favorite fields: Full-Stack, Software Engineering, UI Design
-
-Currently working on [Everywhere](https://github.com/DearVa/Everywhere)
-
-### Learning
-
-- Full-Stack
-- AI / ML
-- Business & Marketing
-
-<a href="#"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=auroraziling&hide=javascript,typescript,html,css,scss,powershell,batchfile,lua&layout=compact&theme=radical"></img></a>
+<a href="#"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=auroraziling&hide=javascript,typescript,html,css,scss,powershell,batchfile,lua,xmake&layout=compact&theme=dracula"></img></a>
 
 ### Contact
 - QQ: 2935876049
@@ -25,6 +19,10 @@ Currently working on [Everywhere](https://github.com/DearVa/Everywhere)
 ### Skills
 
 [![My Skills](https://skillicons.dev/icons?i=cs,docker,git,discord,nginx,ps,powershell,py,raspberrypi,windows,cloudflare,stackoverflow,visualstudio,vscode,netlify,notion,md,npm,pnpm,obsidian,github,idea,pycharm,rider)](https://skillicons.dev)
+
+### WakaTime
+
+![My WakaTime Status](https://github-readme-stats.vercel.app/api/wakatime?username=artemisli&hide_title=true&theme=dracula&layout=compact&langs_count=3)
 
 [.NET Core]: https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white
 [.NET-url]: https://dotnet.microsoft.com/
