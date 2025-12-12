@@ -1,11 +1,11 @@
 # Greetings 👋
 <a href="#"><img align="right" src="https://github-readme-stats.vercel.app/api?username=auroraziling&theme=dracula&show_icons=true&hide_title=true&show=reviews,prs_merged&hide=contribs&rank_icon=percentile"></img></a>
 
-  - 🔭 I’m **Artemis Li**, a drop-out undergrad student from [UBC](https://www.ubc.ca/)
-  - 🌱 Currently currently living in Shanghai, China
-  - 💬 Favorite fields: Software Engineering, UI Design
-  - ✍🏼 Learning Business & Marketing / AI-related / Full Stack
-  - ⚡ Currently working on [Everywhere](https://github.com/DearVa/Everywhere)
+🔭 I’m **Artemis Li**, a drop-out undergrad student from [UBC](https://www.ubc.ca/)  
+🌱 Currently currently living in Shanghai, China  
+💬 Favorite fields: Software Engineering, UI Design  
+✍🏼 Learning Business & Marketing / AI-related / Full Stack  
+⚡ Currently working on [Everywhere](https://github.com/DearVa/Everywhere)  
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=AuroraZiling.AuroraZiling)
 
