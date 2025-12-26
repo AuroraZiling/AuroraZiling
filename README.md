@@ -1,5 +1,5 @@
 # Greetings 👋
-<a href="#"><img align="right" src="https://github-readme-stats.vercel.app/api?username=auroraziling&theme=dracula&show_icons=true&hide_title=true&show=reviews,prs_merged&hide=contribs&rank_icon=percentile"></img></a>
+<a href="#"><img align="right" src="https://stats.ziling.moe/api?username=auroraziling&theme=dracula&show_icons=true&hide_title=true&show=reviews,prs_merged&hide=contribs&rank_icon=percentile"></img></a>
 
 - 🔭 I’m **Artemis Li**, a drop-out undergrad from [UBC](https://www.ubc.ca/)
 - 🏢 Startup
@@ -10,7 +10,7 @@
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=AuroraZiling.AuroraZiling)
 
-<a href="#"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=auroraziling&hide=javascript,typescript,html,css,scss,powershell,batchfile,lua,xmake&layout=compact&theme=dracula"></img></a>
+<a href="#"><img align="right" src="https://stats.ziling.moe/api/top-langs/?username=auroraziling&hide=javascript,typescript,html,css,scss,powershell,batchfile,lua,xmake&layout=compact&theme=dracula"></img></a>
 
 ### Contact
 - QQ: 2935876049
@@ -23,7 +23,7 @@
 
 ### WakaTime
 
-![My WakaTime Status](https://github-readme-stats.vercel.app/api/wakatime?username=artemisli&hide_title=true&theme=dracula&layout=compact&langs_count=3)
+![My WakaTime Status](https://stats.ziling.moe/api/wakatime?username=artemisli&hide_title=true&theme=dracula&layout=compact&langs_count=3)
 
 [.NET Core]: https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white
 [.NET-url]: https://dotnet.microsoft.com/
