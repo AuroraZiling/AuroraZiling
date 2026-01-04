@@ -10,7 +10,7 @@
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=AuroraZiling.AuroraZiling)
 
-<a href="#"><img align="right" src="https://stats.ziling.moe/api/top-langs/?username=auroraziling&hide=javascript,typescript,html,css,scss,powershell,batchfile,lua,xmake&layout=compact&theme=dracula"></img></a>
+<a href="#"><img align="right" src="https://stats.ziling.moe/api/top-langs/?username=auroraziling&hide=javascript,html,css,scss,powershell,batchfile,lua,xmake,cmake&layout=compact&theme=dracula"></img></a>
 
 ### Contact
 - QQ: 2935876049
