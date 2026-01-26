@@ -19,7 +19,7 @@
 
 ### Skills
 
-[![My Skills](https://skillicons.dev/icons?i=cs,docker,git,discord,nginx,ps,powershell,py,raspberrypi,windows,cloudflare,stackoverflow,visualstudio,vscode,netlify,notion,md,npm,pnpm,obsidian,github,idea,pycharm,rider)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,py,fastapi,ts,vue,react,nextjs,tailwind,powershell,git,workers,npm,pnpm,sentry,nginx,docker,githubactions,postgres,vercel,raspberrypi,github,cloudflare,gcp,windows,vscode,rider,pycharm,figma,ps)](https://skillicons.dev)
 
 ### WakaTime
 
