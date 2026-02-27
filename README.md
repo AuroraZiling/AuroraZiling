@@ -12,7 +12,6 @@
 <a href="#"><img align="right" src="https://stats.ziling.moe/api/top-langs/?username=auroraziling&hide=javascript,html,css,scss,powershell,batchfile,lua,xmake,cmake&layout=compact&theme=dracula"></img></a>
 
 ### Contact
-- QQ: 2935876049
 - Email: auroraziling@gmail.com
 - Minecraft ID: Ziling_uwu
 
