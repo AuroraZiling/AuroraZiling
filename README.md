@@ -2,6 +2,7 @@
 <a href="#"><img align="right" src="https://stats.ziling.moe/api?username=auroraziling&theme=dracula&show_icons=true&hide_title=true&show=reviews,prs_merged&hide=contribs"></img></a>
 
 - 🔭 I’m **Artemis Li**, a drop-out undergrad from [UBC](https://www.ubc.ca/)
+- 😎 Vibe Living
 - 🏢 Startup
 - 💬 Favorites: Software Engineering, UI Design
 - ✍🏼 Learning Business / AI-related / Full Stack
