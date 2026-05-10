@@ -6,7 +6,7 @@
 - 🏢 Startup
 - 💬 Favorites: Software Engineering, UI Design
 - ✍🏼 Learning Business / AI-related / Full Stack
-- ⚡ Working on [Everywhere](https://github.com/DearVa/Everywhere)
+- ⚡ Working on [Everywhere](https://github.com/Sylinko/Everywhere)
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=AuroraZiling.AuroraZiling)
 
