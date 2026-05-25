@@ -1,6 +1,8 @@
 # Greetings 👋
 <a href="#"><img align="right" src="https://stats.ziling.moe/api?username=auroraziling&theme=dracula&show_icons=true&hide_title=true&show=reviews,prs_merged&hide=contrib&include_repo=Sylinko/everywhere-website,Sylinko/jsonl-viewer"></img></a>
 
+<br/>
+
 - 🔭 I’m **Artemis Li**, a drop-out undergrad from [UBC](https://www.ubc.ca/)
 - 😎 Vibe Living
 - 🏢 Bootstrapping
@@ -15,6 +17,8 @@
 ### Contact
 - Email: auroraziling@gmail.com
 - Minecraft ID: Ziling_uwu
+
+<br/>
 
 ### Skills
 
