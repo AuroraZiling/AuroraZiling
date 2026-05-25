@@ -1,16 +1,16 @@
 # Greetings 👋
-<a href="#"><img align="right" src="https://stats.ziling.moe/api?username=auroraziling&theme=dracula&show_icons=true&hide_title=true&show=reviews,prs_merged&hide=contribs"></img></a>
+<a href="#"><img align="right" src="https://stats.ziling.moe/api?username=auroraziling&theme=dracula&show_icons=true&hide_title=true&show=reviews,prs_merged&hide=contrib&include_repo=Sylinko/everywhere-website,Sylinko/jsonl-viewer"></img></a>
 
 - 🔭 I’m **Artemis Li**, a drop-out undergrad from [UBC](https://www.ubc.ca/)
 - 😎 Vibe Living
-- 🏢 Startup
+- 🏢 Bootstrapping
 - 💬 Favorites: Software Engineering, UI Design
 - ✍🏼 Learning Business / AI-related / Full Stack
 - ⚡ Working on [Everywhere](https://github.com/Sylinko/Everywhere)
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=AuroraZiling.AuroraZiling)
 
-<a href="#"><img align="right" src="https://stats.ziling.moe/api/top-langs/?username=auroraziling&hide=javascript,html,css,scss,powershell,batchfile,lua,xmake,cmake&layout=compact&theme=dracula"></img></a>
+<a href="#"><img align="right" src="https://stats.ziling.moe/api/top-langs/?username=auroraziling&hide=javascript,html,css,scss,powershell,batchfile,lua,xmake,cmake&layout=compact&theme=dracula&include_repo=Sylinko/everywhere-website,Sylinko/jsonl-viewer"></img></a>
 
 ### Contact
 - Email: auroraziling@gmail.com
