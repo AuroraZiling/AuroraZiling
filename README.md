@@ -5,17 +5,18 @@
 
 - 🔭 I’m **Artemis Li**, a drop-out undergrad from [UBC](https://www.ubc.ca/)
 - 😎 Vibe Living
-- 🏢 Bootstrapping
-- 💬 Favorites: Software Engineering, UI Design
-- ✍🏼 Learning Business / AI-related / Full Stack
-- ⚡ Working on [Everywhere](https://github.com/Sylinko/Everywhere)
+- 🏢 Bootstrapping & Freelancer
+- 💬 Favorites: Full Stack, Software Engineering & UI Design
+- ✍🏼 Learning .NET/C#, Next.js & Rust
+- ⚡ Working on [Everywhere](https://github.com/Sylinko/Everywhere), Locell & Tractate *(WIP~)*
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=AuroraZiling.AuroraZiling)
 
 <a href="#"><img align="right" src="https://stats.ziling.moe/api/top-langs/?username=auroraziling&hide=javascript,html,css,scss,powershell,batchfile,lua,xmake,cmake&layout=compact&theme=dracula&include_repo=Sylinko/everywhere-website,Sylinko/jsonl-viewer"></img></a>
 
-### Contact
-- Email: auroraziling@gmail.com
+### Social
+- Email: [artemis-li@sylinko.com](mailto:artemis-li@sylinko.com) / [auroraziling@gmail.com](mailto:auroraziling@gmail.com)
+- Bilibili: [Ziling_uwu](https://space.bilibili.com/222204281)
 - Minecraft ID: Ziling_uwu
 
 <br/>
